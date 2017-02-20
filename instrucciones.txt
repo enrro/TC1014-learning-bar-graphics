@@ -1,0 +1,4 @@
+recoger informacion de 5 compañias en 2 paises y 
+graficarla con la informacion de los fans, fans locales y
+fans de twitter
+fuente: socialbakers
